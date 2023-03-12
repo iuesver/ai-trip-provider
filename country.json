@@ -1,0 +1,1456 @@
+[
+  {
+    "name": "Afghanistan",
+    "name-ko": "아프가니스탄",
+    "alpha-2": "AF",
+    "country-code": "004"
+  },
+  {
+    "name": "Åland Islands",
+    "name-ko": "올란드 제도",
+    "alpha-2": "AX",
+    "country-code": "248"
+  },
+  {
+    "name": "Albania",
+    "name-ko": "알바니아",
+    "alpha-2": "AL",
+    "country-code": "008"
+  },
+  {
+    "name": "Algeria",
+    "name-ko": "알제리아",
+    "alpha-2": "DZ",
+    "country-code": "012"
+  },
+  {
+    "name": "American Samoa",
+    "name-ko": "아메리칸사모아",
+    "alpha-2": "AS",
+    "country-code": "016"
+  },
+  {
+    "name": "Andorra",
+    "name-ko": "안도라",
+    "alpha-2": "AD",
+    "country-code": "020"
+  },
+  {
+    "name": "Angola",
+    "name-ko": "앙골라",
+    "alpha-2": "AO",
+    "country-code": "024"
+  },
+  {
+    "name": "Anguilla",
+    "name-ko": "앵귈라",
+    "alpha-2": "AI",
+    "country-code": "660"
+  },
+  {
+    "name": "Antarctica",
+    "name-ko": "남극",
+    "alpha-2": "AQ",
+    "country-code": "010"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "name-ko": "앤티가 바부다",
+    "alpha-2": "AG",
+    "country-code": "028"
+  },
+  {
+    "name": "Argentina",
+    "name-ko": "아르헨티나",
+    "alpha-2": "AR",
+    "country-code": "032"
+  },
+  {
+    "name": "Armenia",
+    "name-ko": "아르메니아",
+    "alpha-2": "AM",
+    "country-code": "051"
+  },
+  {
+    "name": "Aruba",
+    "name-ko": "아루바",
+    "alpha-2": "AW",
+    "country-code": "533"
+  },
+  {
+    "name": "Australia",
+    "name-ko": "호주",
+    "alpha-2": "AU",
+    "country-code": "036"
+  },
+  {
+    "name": "Austria",
+    "name-ko": "오스트리아",
+    "alpha-2": "AT",
+    "country-code": "040"
+  },
+  {
+    "name": "Azerbaijan",
+    "name-ko": "아제르바이잔",
+    "alpha-2": "AZ",
+    "country-code": "031"
+  },
+  {
+    "name": "Bahamas",
+    "name-ko": "바하마",
+    "alpha-2": "BS",
+    "country-code": "044"
+  },
+  {
+    "name": "Bahrain",
+    "name-ko": "바레인",
+    "alpha-2": "BH",
+    "country-code": "048"
+  },
+  {
+    "name": "Bangladesh",
+    "name-ko": "방글라데시",
+    "alpha-2": "BD",
+    "country-code": "050"
+  },
+  {
+    "name": "Barbados",
+    "name-ko": "바베이도스",
+    "alpha-2": "BB",
+    "country-code": "052"
+  },
+  {
+    "name": "Belarus",
+    "name-ko": "벨라루스",
+    "alpha-2": "BY",
+    "country-code": "112"
+  },
+  {
+    "name": "Belgium",
+    "name-ko": "벨기에",
+    "alpha-2": "BE",
+    "country-code": "056"
+  },
+  {
+    "name": "Belize",
+    "name-ko": "벨리즈",
+    "alpha-2": "BZ",
+    "country-code": "084"
+  },
+  {
+    "name": "Benin",
+    "name-ko": "베냉",
+    "alpha-2": "BJ",
+    "country-code": "204"
+  },
+  {
+    "name": "Bermuda",
+    "name-ko": "버뮤다",
+    "alpha-2": "BM",
+    "country-code": "060"
+  },
+  {
+    "name": "Bhutan",
+    "name-ko": "부탄",
+    "alpha-2": "BT",
+    "country-code": "064"
+  },
+  {
+    "name": "Bolivia (Plurinational State of)",
+    "name-ko": "볼리비아",
+    "alpha-2": "BO",
+    "country-code": "068"
+  },
+  {
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "name-ko": "카리브 네덜란드",
+    "alpha-2": "BQ",
+    "country-code": "535"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "name-ko": "보스니아 헤르체고비나",
+    "alpha-2": "BA",
+    "country-code": "070"
+  },
+  {
+    "name": "Botswana",
+    "name-ko": "보츠와나",
+    "alpha-2": "BW",
+    "country-code": "072"
+  },
+  {
+    "name": "Bouvet Island",
+    "name-ko": "부베 섬",
+    "alpha-2": "BV",
+    "country-code": "074"
+  },
+  {
+    "name": "Brazil",
+    "name-ko": "브라질",
+    "alpha-2": "BR",
+    "country-code": "076"
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "name-ko": "영국령 인도양 지역",
+    "alpha-2": "IO",
+    "country-code": "086"
+  },
+  {
+    "name": "Brunei Darussalam",
+    "name-ko": "브루나이",
+    "alpha-2": "BN",
+    "country-code": "096"
+  },
+  {
+    "name": "Bulgaria",
+    "name-ko": "불가리아",
+    "alpha-2": "BG",
+    "country-code": "100"
+  },
+  {
+    "name": "Burkina Faso",
+    "name-ko": "부르키나 파소",
+    "alpha-2": "BF",
+    "country-code": "854"
+  },
+  {
+    "name": "Burundi",
+    "name-ko": "부룬디",
+    "alpha-2": "BI",
+    "country-code": "108"
+  },
+  {
+    "name": "Cabo Verde",
+    "name-ko": "카보베르데",
+    "alpha-2": "CV",
+    "country-code": "132"
+  },
+  {
+    "name": "Cambodia",
+    "name-ko": "캄보디아",
+    "alpha-2": "KH",
+    "country-code": "116"
+  },
+  {
+    "name": "Cameroon",
+    "name-ko": "카메룬",
+    "alpha-2": "CM",
+    "country-code": "120"
+  },
+  {
+    "name": "Canada",
+    "name-ko": "캐나다",
+    "alpha-2": "CA",
+    "country-code": "124"
+  },
+  {
+    "name": "Cayman Islands",
+    "name-ko": "케이맨 제도",
+    "alpha-2": "KY",
+    "country-code": "136"
+  },
+  {
+    "name": "Central African Republic",
+    "name-ko": "중앙아프리카 공화국",
+    "alpha-2": "CF",
+    "country-code": "140"
+  },
+  { "name": "Chad", "name-ko": "차드", "alpha-2": "TD", "country-code": "148" },
+  {
+    "name": "Chile",
+    "name-ko": "칠레",
+    "alpha-2": "CL",
+    "country-code": "152"
+  },
+  {
+    "name": "China",
+    "name-ko": "중국",
+    "alpha-2": "CN",
+    "country-code": "156"
+  },
+  {
+    "name": "Christmas Island",
+    "name-ko": "크리스마스섬",
+    "alpha-2": "CX",
+    "country-code": "162"
+  },
+  {
+    "name": "Cocos (Keeling) Islands",
+    "name-ko": "코코스 제도",
+    "alpha-2": "CC",
+    "country-code": "166"
+  },
+  {
+    "name": "Colombia",
+    "name-ko": "콜롬비아",
+    "alpha-2": "CO",
+    "country-code": "170"
+  },
+  {
+    "name": "Comoros",
+    "name-ko": "코모로",
+    "alpha-2": "KM",
+    "country-code": "174"
+  },
+  {
+    "name": "Congo",
+    "name-ko": "콩고 공화국",
+    "alpha-2": "CG",
+    "country-code": "178"
+  },
+  {
+    "name": "Congo, Democratic Republic of the",
+    "name-ko": "콩고 민주 공화국",
+    "alpha-2": "CD",
+    "country-code": "180"
+  },
+  {
+    "name": "Cook Islands",
+    "name-ko": "쿡 제도",
+    "alpha-2": "CK",
+    "country-code": "184"
+  },
+  {
+    "name": "Costa Rica",
+    "name-ko": "코스타리카",
+    "alpha-2": "CR",
+    "country-code": "188"
+  },
+  {
+    "name": "Côte d'Ivoire",
+    "name-ko": "코트디부아르",
+    "alpha-2": "CI",
+    "country-code": "384"
+  },
+  {
+    "name": "Croatia",
+    "name-ko": "크로아티아",
+    "alpha-2": "HR",
+    "country-code": "191"
+  },
+  { "name": "Cuba", "name-ko": "쿠바", "alpha-2": "CU", "country-code": "192" },
+  {
+    "name": "Curaçao",
+    "name-ko": "퀴라소",
+    "alpha-2": "CW",
+    "country-code": "531"
+  },
+  {
+    "name": "Cyprus",
+    "name-ko": "키프로스",
+    "alpha-2": "CY",
+    "country-code": "196"
+  },
+  {
+    "name": "Czechia",
+    "name-ko": "체코",
+    "alpha-2": "CZ",
+    "country-code": "203"
+  },
+  {
+    "name": "Denmark",
+    "name-ko": "덴마크",
+    "alpha-2": "DK",
+    "country-code": "208"
+  },
+  {
+    "name": "Djibouti",
+    "name-ko": "지부티",
+    "alpha-2": "DJ",
+    "country-code": "262"
+  },
+  {
+    "name": "Dominica",
+    "name-ko": "도미니카",
+    "alpha-2": "DM",
+    "country-code": "212"
+  },
+  {
+    "name": "Dominican Republic",
+    "name-ko": "도미니카 공화국",
+    "alpha-2": "DO",
+    "country-code": "214"
+  },
+  {
+    "name": "Ecuador",
+    "name-ko": "에콰도르",
+    "alpha-2": "EC",
+    "country-code": "218"
+  },
+  {
+    "name": "Egypt",
+    "name-ko": "이집트",
+    "alpha-2": "EG",
+    "country-code": "818"
+  },
+  {
+    "name": "El Salvador",
+    "name-ko": "엘살바도르",
+    "alpha-2": "SV",
+    "country-code": "222"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "name-ko": "적도 기니",
+    "alpha-2": "GQ",
+    "country-code": "226"
+  },
+  {
+    "name": "Eritrea",
+    "name-ko": "에리트레아",
+    "alpha-2": "ER",
+    "country-code": "232"
+  },
+  {
+    "name": "Estonia",
+    "name-ko": "에스토니아",
+    "alpha-2": "EE",
+    "country-code": "233"
+  },
+  {
+    "name": "Eswatini",
+    "name-ko": "에스와티니",
+    "alpha-2": "SZ",
+    "country-code": "748"
+  },
+  {
+    "name": "Ethiopia",
+    "name-ko": "에티오피아",
+    "alpha-2": "ET",
+    "country-code": "231"
+  },
+  {
+    "name": "Falkland Islands (Malvinas)",
+    "name-ko": "포클랜드 제도(말비나스 군도)",
+    "alpha-2": "FK",
+    "country-code": "238"
+  },
+  {
+    "name": "Faroe Islands",
+    "name-ko": "페로 제도",
+    "alpha-2": "FO",
+    "country-code": "234"
+  },
+  { "name": "Fiji", "name-ko": "피지", "alpha-2": "FJ", "country-code": "242" },
+  {
+    "name": "Finland",
+    "name-ko": "핀란드",
+    "alpha-2": "FI",
+    "country-code": "246"
+  },
+  {
+    "name": "France",
+    "name-ko": "프랑스",
+    "alpha-2": "FR",
+    "country-code": "250"
+  },
+  {
+    "name": "French Guiana",
+    "name-ko": "프랑스령 기아나",
+    "alpha-2": "GF",
+    "country-code": "254"
+  },
+  {
+    "name": "French Polynesia",
+    "name-ko": "프랑스령 폴리네시아",
+    "alpha-2": "PF",
+    "country-code": "258"
+  },
+  {
+    "name": "French Southern Territories",
+    "name-ko": "프랑스령 남방 및 남극",
+    "alpha-2": "TF",
+    "country-code": "260"
+  },
+  {
+    "name": "Gabon",
+    "name-ko": "가봉",
+    "alpha-2": "GA",
+    "country-code": "266"
+  },
+  {
+    "name": "Gambia",
+    "name-ko": "감비아",
+    "alpha-2": "GM",
+    "country-code": "270"
+  },
+  {
+    "name": "Georgia",
+    "name-ko": "조지아",
+    "alpha-2": "GE",
+    "country-code": "268"
+  },
+  {
+    "name": "Germany",
+    "name-ko": "독일",
+    "alpha-2": "DE",
+    "country-code": "276"
+  },
+  {
+    "name": "Ghana",
+    "name-ko": "가나",
+    "alpha-2": "GH",
+    "country-code": "288"
+  },
+  {
+    "name": "Gibraltar",
+    "name-ko": "지브롤터",
+    "alpha-2": "GI",
+    "country-code": "292"
+  },
+  {
+    "name": "Greece",
+    "name-ko": "그리스",
+    "alpha-2": "GR",
+    "country-code": "300"
+  },
+  {
+    "name": "Greenland",
+    "name-ko": "그린란드",
+    "alpha-2": "GL",
+    "country-code": "304"
+  },
+  { "name": "Grenada", "name-ko": "", "alpha-2": "GD", "country-code": "308" },
+  {
+    "name": "Guadeloupe",
+    "name-ko": "",
+    "alpha-2": "GP",
+    "country-code": "312"
+  },
+  {
+    "name": "Guam",
+    "name-ko": "그레나다",
+    "alpha-2": "GU",
+    "country-code": "316"
+  },
+  {
+    "name": "Guatemala",
+    "name-ko": "과테말라",
+    "alpha-2": "GT",
+    "country-code": "320"
+  },
+  {
+    "name": "Guernsey",
+    "name-ko": "건지",
+    "alpha-2": "GG",
+    "country-code": "831"
+  },
+  {
+    "name": "Guinea",
+    "name-ko": "기니",
+    "alpha-2": "GN",
+    "country-code": "324"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "name-ko": "기니비사우",
+    "alpha-2": "GW",
+    "country-code": "624"
+  },
+  {
+    "name": "Guyana",
+    "name-ko": "가이아나",
+    "alpha-2": "GY",
+    "country-code": "328"
+  },
+  {
+    "name": "Haiti",
+    "name-ko": "아이티",
+    "alpha-2": "HT",
+    "country-code": "332"
+  },
+  {
+    "name": "Heard Island and McDonald Islands",
+    "name-ko": "허드 맥도날드 제도",
+    "alpha-2": "HM",
+    "country-code": "334"
+  },
+  {
+    "name": "Holy See",
+    "name-ko": "바티칸 시국",
+    "alpha-2": "VA",
+    "country-code": "336"
+  },
+  {
+    "name": "Honduras",
+    "name-ko": "온두라스",
+    "alpha-2": "HN",
+    "country-code": "340"
+  },
+  {
+    "name": "Hong Kong",
+    "name-ko": "홍콩",
+    "alpha-2": "HK",
+    "country-code": "344"
+  },
+  {
+    "name": "Hungary",
+    "name-ko": "헝가리",
+    "alpha-2": "HU",
+    "country-code": "348"
+  },
+  {
+    "name": "Iceland",
+    "name-ko": "아이슬란드",
+    "alpha-2": "IS",
+    "country-code": "352"
+  },
+  {
+    "name": "India",
+    "name-ko": "인도",
+    "alpha-2": "IN",
+    "country-code": "356"
+  },
+  {
+    "name": "Indonesia",
+    "name-ko": "인도네시아",
+    "alpha-2": "ID",
+    "country-code": "360"
+  },
+  {
+    "name": "Iran (Islamic Republic of)",
+    "name-ko": "이란",
+    "alpha-2": "IR",
+    "country-code": "364"
+  },
+  {
+    "name": "Iraq",
+    "name-ko": "이라크",
+    "alpha-2": "IQ",
+    "country-code": "368"
+  },
+  {
+    "name": "Ireland",
+    "name-ko": "아일랜드",
+    "alpha-2": "IE",
+    "country-code": "372"
+  },
+  {
+    "name": "Isle of Man",
+    "name-ko": "맨섬",
+    "alpha-2": "IM",
+    "country-code": "833"
+  },
+  {
+    "name": "Israel",
+    "name-ko": "이스라엘",
+    "alpha-2": "IL",
+    "country-code": "376"
+  },
+  {
+    "name": "Italy",
+    "name-ko": "이탈리아",
+    "alpha-2": "IT",
+    "country-code": "380"
+  },
+  {
+    "name": "Jamaica",
+    "name-ko": "자메이카",
+    "alpha-2": "JM",
+    "country-code": "388"
+  },
+  {
+    "name": "Japan",
+    "name-ko": "일본",
+    "alpha-2": "JP",
+    "country-code": "392"
+  },
+  {
+    "name": "Jersey",
+    "name-ko": "저지섬",
+    "alpha-2": "JE",
+    "country-code": "832"
+  },
+  {
+    "name": "Jordan",
+    "name-ko": "요르단",
+    "alpha-2": "JO",
+    "country-code": "400"
+  },
+  {
+    "name": "Kazakhstan",
+    "name-ko": "카자흐스탄",
+    "alpha-2": "KZ",
+    "country-code": "398"
+  },
+  {
+    "name": "Kenya",
+    "name-ko": "케냐",
+    "alpha-2": "KE",
+    "country-code": "404"
+  },
+  {
+    "name": "Kiribati",
+    "name-ko": "키리바시",
+    "alpha-2": "KI",
+    "country-code": "296"
+  },
+  {
+    "name": "Korea (Democratic People's Republic of)",
+    "name-ko": "북한",
+    "alpha-2": "KP",
+    "country-code": "408"
+  },
+  {
+    "name": "Korea, Republic of",
+    "name-ko": "한국",
+    "alpha-2": "KR",
+    "country-code": "410"
+  },
+  {
+    "name": "Kuwait",
+    "name-ko": "쿠웨이트",
+    "alpha-2": "KW",
+    "country-code": "414"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "name-ko": "키르기스스탄",
+    "alpha-2": "KG",
+    "country-code": "417"
+  },
+  {
+    "name": "Lao People's Democratic Republic",
+    "name-ko": "라오스",
+    "alpha-2": "LA",
+    "country-code": "418"
+  },
+  {
+    "name": "Latvia",
+    "name-ko": "라트비아",
+    "alpha-2": "LV",
+    "country-code": "428"
+  },
+  {
+    "name": "Lebanon",
+    "name-ko": "레바논",
+    "alpha-2": "LB",
+    "country-code": "422"
+  },
+  {
+    "name": "Lesotho",
+    "name-ko": "레소토",
+    "alpha-2": "LS",
+    "country-code": "426"
+  },
+  {
+    "name": "Liberia",
+    "name-ko": "라이베리아",
+    "alpha-2": "LR",
+    "country-code": "430"
+  },
+  {
+    "name": "Libya",
+    "name-ko": "리비아",
+    "alpha-2": "LY",
+    "country-code": "434"
+  },
+  {
+    "name": "Liechtenstein",
+    "name-ko": "리히텐슈타인",
+    "alpha-2": "LI",
+    "country-code": "438"
+  },
+  {
+    "name": "Lithuania",
+    "name-ko": "리투아니아",
+    "alpha-2": "LT",
+    "country-code": "440"
+  },
+  {
+    "name": "Luxembourg",
+    "name-ko": "룩셈부르크",
+    "alpha-2": "LU",
+    "country-code": "442"
+  },
+  {
+    "name": "Macao",
+    "name-ko": "마카오",
+    "alpha-2": "MO",
+    "country-code": "446"
+  },
+  {
+    "name": "Madagascar",
+    "name-ko": "마다가스카르",
+    "alpha-2": "MG",
+    "country-code": "450"
+  },
+  {
+    "name": "Malawi",
+    "name-ko": "말라위",
+    "alpha-2": "MW",
+    "country-code": "454"
+  },
+  {
+    "name": "Malaysia",
+    "name-ko": "말레이시아",
+    "alpha-2": "MY",
+    "country-code": "458"
+  },
+  {
+    "name": "Maldives",
+    "name-ko": "몰디브",
+    "alpha-2": "MV",
+    "country-code": "462"
+  },
+  { "name": "Mali", "name-ko": "말리", "alpha-2": "ML", "country-code": "466" },
+  {
+    "name": "Malta",
+    "name-ko": "몰타",
+    "alpha-2": "MT",
+    "country-code": "470"
+  },
+  {
+    "name": "Marshall Islands",
+    "name-ko": "마셜 제도",
+    "alpha-2": "MH",
+    "country-code": "584"
+  },
+  {
+    "name": "Martinique",
+    "name-ko": "마르티니크",
+    "alpha-2": "MQ",
+    "country-code": "474"
+  },
+  {
+    "name": "Mauritania",
+    "name-ko": "모리타니",
+    "alpha-2": "MR",
+    "country-code": "478"
+  },
+  {
+    "name": "Mauritius",
+    "name-ko": "모리셔스 섬",
+    "alpha-2": "MU",
+    "country-code": "480"
+  },
+  {
+    "name": "Mayotte",
+    "name-ko": "마요트",
+    "alpha-2": "YT",
+    "country-code": "175"
+  },
+  {
+    "name": "Mexico",
+    "name-ko": "멕시코",
+    "alpha-2": "MX",
+    "country-code": "484"
+  },
+  {
+    "name": "Micronesia (Federated States of)",
+    "name-ko": "미크로네시아 연방",
+    "alpha-2": "FM",
+    "country-code": "583"
+  },
+  {
+    "name": "Moldova, Republic of",
+    "name-ko": "몰도바",
+    "alpha-2": "MD",
+    "country-code": "498"
+  },
+  {
+    "name": "Monaco",
+    "name-ko": "모나코",
+    "alpha-2": "MC",
+    "country-code": "492"
+  },
+  {
+    "name": "Mongolia",
+    "name-ko": "몽골",
+    "alpha-2": "MN",
+    "country-code": "496"
+  },
+  {
+    "name": "Montenegro",
+    "name-ko": "몬테네그로",
+    "alpha-2": "ME",
+    "country-code": "499"
+  },
+  {
+    "name": "Montserrat",
+    "name-ko": "몬트세랫",
+    "alpha-2": "MS",
+    "country-code": "500"
+  },
+  {
+    "name": "Morocco",
+    "name-ko": "모로코",
+    "alpha-2": "MA",
+    "country-code": "504"
+  },
+  {
+    "name": "Mozambique",
+    "name-ko": "모잠비크",
+    "alpha-2": "MZ",
+    "country-code": "508"
+  },
+  {
+    "name": "Myanmar",
+    "name-ko": "미얀마",
+    "alpha-2": "MM",
+    "country-code": "104"
+  },
+  {
+    "name": "Namibia",
+    "name-ko": "나미비아",
+    "alpha-2": "NA",
+    "country-code": "516"
+  },
+  {
+    "name": "Nauru",
+    "name-ko": "나우루",
+    "alpha-2": "NR",
+    "country-code": "520"
+  },
+  {
+    "name": "Nepal",
+    "name-ko": "네팔",
+    "alpha-2": "NP",
+    "country-code": "524"
+  },
+  {
+    "name": "Netherlands",
+    "name-ko": "네덜란드",
+    "alpha-2": "NL",
+    "country-code": "528"
+  },
+  {
+    "name": "New Caledonia",
+    "name-ko": "누벨칼레도니",
+    "alpha-2": "NC",
+    "country-code": "540"
+  },
+  {
+    "name": "New Zealand",
+    "name-ko": "뉴질랜드",
+    "alpha-2": "NZ",
+    "country-code": "554"
+  },
+  {
+    "name": "Nicaragua",
+    "name-ko": "니카라과",
+    "alpha-2": "NI",
+    "country-code": "558"
+  },
+  {
+    "name": "Niger",
+    "name-ko": "니제르",
+    "alpha-2": "NE",
+    "country-code": "562"
+  },
+  {
+    "name": "Nigeria",
+    "name-ko": "나이지리아",
+    "alpha-2": "NG",
+    "country-code": "566"
+  },
+  {
+    "name": "Niue",
+    "name-ko": "니우에",
+    "alpha-2": "NU",
+    "country-code": "570"
+  },
+  {
+    "name": "Norfolk Island",
+    "name-ko": "노퍽 섬",
+    "alpha-2": "NF",
+    "country-code": "574"
+  },
+  {
+    "name": "North Macedonia",
+    "name-ko": "북마케도니아",
+    "alpha-2": "MK",
+    "country-code": "807"
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "name-ko": "북마리아나 제도",
+    "alpha-2": "MP",
+    "country-code": "580"
+  },
+  {
+    "name": "Norway",
+    "name-ko": "노르웨이",
+    "alpha-2": "NO",
+    "country-code": "578"
+  },
+  { "name": "Oman", "name-ko": "오만", "alpha-2": "OM", "country-code": "512" },
+  {
+    "name": "Pakistan",
+    "name-ko": "파키스탄",
+    "alpha-2": "PK",
+    "country-code": "586"
+  },
+  {
+    "name": "Palau",
+    "name-ko": "팔라우",
+    "alpha-2": "PW",
+    "country-code": "585"
+  },
+  {
+    "name": "Palestine, State of",
+    "name-ko": "팔레스타인",
+    "alpha-2": "PS",
+    "country-code": "275"
+  },
+  {
+    "name": "Panama",
+    "name-ko": "파나마",
+    "alpha-2": "PA",
+    "country-code": "591"
+  },
+  {
+    "name": "Papua New Guinea",
+    "name-ko": "파푸아뉴기니",
+    "alpha-2": "PG",
+    "country-code": "598"
+  },
+  {
+    "name": "Paraguay",
+    "name-ko": "파라과이",
+    "alpha-2": "PY",
+    "country-code": "600"
+  },
+  { "name": "Peru", "name-ko": "페루", "alpha-2": "PE", "country-code": "604" },
+  {
+    "name": "Philippines",
+    "name-ko": "필리핀",
+    "alpha-2": "PH",
+    "country-code": "608"
+  },
+  {
+    "name": "Pitcairn",
+    "name-ko": "핏케언 제도",
+    "alpha-2": "PN",
+    "country-code": "612"
+  },
+  {
+    "name": "Poland",
+    "name-ko": "폴란드",
+    "alpha-2": "PL",
+    "country-code": "616"
+  },
+  {
+    "name": "Portugal",
+    "name-ko": "포르투갈",
+    "alpha-2": "PT",
+    "country-code": "620"
+  },
+  {
+    "name": "Puerto Rico",
+    "name-ko": "푸에르토리코",
+    "alpha-2": "PR",
+    "country-code": "630"
+  },
+  {
+    "name": "Qatar",
+    "name-ko": "카타르",
+    "alpha-2": "QA",
+    "country-code": "634"
+  },
+  {
+    "name": "Réunion",
+    "name-ko": "레위니옹",
+    "alpha-2": "RE",
+    "country-code": "638"
+  },
+  {
+    "name": "Romania",
+    "name-ko": "루마니아",
+    "alpha-2": "RO",
+    "country-code": "642"
+  },
+  {
+    "name": "Russian Federation",
+    "name-ko": "러시아",
+    "alpha-2": "RU",
+    "country-code": "643"
+  },
+  {
+    "name": "Rwanda",
+    "name-ko": "르완다",
+    "alpha-2": "RW",
+    "country-code": "646"
+  },
+  {
+    "name": "Saint Barthélemy",
+    "name-ko": "생바르텔레미",
+    "alpha-2": "BL",
+    "country-code": "652"
+  },
+  {
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "name-ko": "세인트헬레나",
+    "alpha-2": "SH",
+    "country-code": "654"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "name-ko": "세인트키츠 네비스",
+    "alpha-2": "KN",
+    "country-code": "659"
+  },
+  {
+    "name": "Saint Lucia",
+    "name-ko": "세인트루시아",
+    "alpha-2": "LC",
+    "country-code": "662"
+  },
+  {
+    "name": "Saint Martin (French part)",
+    "name-ko": "세인트마틴 섬",
+    "alpha-2": "MF",
+    "country-code": "663"
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "name-ko": "생피에르 미클롱",
+    "alpha-2": "PM",
+    "country-code": "666"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "name-ko": "세인트빈센트 그레나딘",
+    "alpha-2": "VC",
+    "country-code": "670"
+  },
+  {
+    "name": "Samoa",
+    "name-ko": "사모아",
+    "alpha-2": "WS",
+    "country-code": "882"
+  },
+  {
+    "name": "San Marino",
+    "name-ko": "산마리노",
+    "alpha-2": "SM",
+    "country-code": "674"
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "name-ko": "상투메 프린시페",
+    "alpha-2": "ST",
+    "country-code": "678"
+  },
+  {
+    "name": "Saudi Arabia",
+    "name-ko": "사우디아라비아",
+    "alpha-2": "SA",
+    "country-code": "682"
+  },
+  {
+    "name": "Senegal",
+    "name-ko": "세네갈",
+    "alpha-2": "SN",
+    "country-code": "686"
+  },
+  {
+    "name": "Serbia",
+    "name-ko": "세르비아",
+    "alpha-2": "RS",
+    "country-code": "688"
+  },
+  {
+    "name": "Seychelles",
+    "name-ko": "세이셸",
+    "alpha-2": "SC",
+    "country-code": "690"
+  },
+  {
+    "name": "Sierra Leone",
+    "name-ko": "시에라리온",
+    "alpha-2": "SL",
+    "country-code": "694"
+  },
+  {
+    "name": "Singapore",
+    "name-ko": "싱가폴",
+    "alpha-2": "SG",
+    "country-code": "702"
+  },
+  {
+    "name": "Sint Maarten (Dutch part)",
+    "name-ko": "신트마르턴",
+    "alpha-2": "SX",
+    "country-code": "534"
+  },
+  {
+    "name": "Slovakia",
+    "name-ko": "슬로바키아",
+    "alpha-2": "SK",
+    "country-code": "703"
+  },
+  {
+    "name": "Slovenia",
+    "name-ko": "슬로베니아",
+    "alpha-2": "SI",
+    "country-code": "705"
+  },
+  {
+    "name": "Solomon Islands",
+    "name-ko": "솔로몬 제도",
+    "alpha-2": "SB",
+    "country-code": "090"
+  },
+  {
+    "name": "Somalia",
+    "name-ko": "소말리아",
+    "alpha-2": "SO",
+    "country-code": "706"
+  },
+  {
+    "name": "South Africa",
+    "name-ko": "남아프리카 공화국",
+    "alpha-2": "ZA",
+    "country-code": "710"
+  },
+  {
+    "name": "South Georgia and the South Sandwich Islands",
+    "name-ko": "사우스조지아 사우스샌드위치 제도",
+    "alpha-2": "GS",
+    "country-code": "239"
+  },
+  {
+    "name": "South Sudan",
+    "name-ko": "남수단",
+    "alpha-2": "SS",
+    "country-code": "728"
+  },
+  {
+    "name": "Spain",
+    "name-ko": "스페인",
+    "alpha-2": "ES",
+    "country-code": "724"
+  },
+  {
+    "name": "Sri Lanka",
+    "name-ko": "스리랑카",
+    "alpha-2": "LK",
+    "country-code": "144"
+  },
+  {
+    "name": "Sudan",
+    "name-ko": "수단",
+    "alpha-2": "SD",
+    "country-code": "729"
+  },
+  {
+    "name": "Suriname",
+    "name-ko": "수리남",
+    "alpha-2": "SR",
+    "country-code": "740"
+  },
+  {
+    "name": "Svalbard and Jan Mayen",
+    "name-ko": "스발바르 얀마옌 제도",
+    "alpha-2": "SJ",
+    "country-code": "744"
+  },
+  {
+    "name": "Sweden",
+    "name-ko": "스웨덴",
+    "alpha-2": "SE",
+    "country-code": "752"
+  },
+  {
+    "name": "Switzerland",
+    "name-ko": "스위스",
+    "alpha-2": "CH",
+    "country-code": "756"
+  },
+  {
+    "name": "Syrian Arab Republic",
+    "name-ko": "시리아",
+    "alpha-2": "SY",
+    "country-code": "760"
+  },
+  {
+    "name": "Taiwan, Province of China",
+    "name-ko": "대만",
+    "alpha-2": "TW",
+    "country-code": "158"
+  },
+  {
+    "name": "Tajikistan",
+    "name-ko": "타지키스탄",
+    "alpha-2": "TJ",
+    "country-code": "762"
+  },
+  {
+    "name": "Tanzania, United Republic of",
+    "name-ko": "탄자니아",
+    "alpha-2": "TZ",
+    "country-code": "834"
+  },
+  {
+    "name": "Thailand",
+    "name-ko": "태국",
+    "alpha-2": "TH",
+    "country-code": "764"
+  },
+  {
+    "name": "Timor-Leste",
+    "name-ko": "동티모르",
+    "alpha-2": "TL",
+    "country-code": "626"
+  },
+  { "name": "Togo", "name-ko": "토고", "alpha-2": "TG", "country-code": "768" },
+  {
+    "name": "Tokelau",
+    "name-ko": "토켈라우",
+    "alpha-2": "TK",
+    "country-code": "772"
+  },
+  {
+    "name": "Tonga",
+    "name-ko": "통가",
+    "alpha-2": "TO",
+    "country-code": "776"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "name-ko": "트리니다드 토바고",
+    "alpha-2": "TT",
+    "country-code": "780"
+  },
+  {
+    "name": "Tunisia",
+    "name-ko": "튀니지",
+    "alpha-2": "TN",
+    "country-code": "788"
+  },
+  {
+    "name": "Turkey",
+    "name-ko": "터키",
+    "alpha-2": "TR",
+    "country-code": "792"
+  },
+  {
+    "name": "Turkmenistan",
+    "name-ko": "투르크메니스탄",
+    "alpha-2": "TM",
+    "country-code": "795"
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "name-ko": "터크스 케이커스 제도",
+    "alpha-2": "TC",
+    "country-code": "796"
+  },
+  {
+    "name": "Tuvalu",
+    "name-ko": "투발루",
+    "alpha-2": "TV",
+    "country-code": "798"
+  },
+  {
+    "name": "Uganda",
+    "name-ko": "우간다",
+    "alpha-2": "UG",
+    "country-code": "800"
+  },
+  {
+    "name": "Ukraine",
+    "name-ko": "우크라이나",
+    "alpha-2": "UA",
+    "country-code": "804"
+  },
+  {
+    "name": "United Arab Emirates",
+    "name-ko": "아랍에미리트",
+    "alpha-2": "AE",
+    "country-code": "784"
+  },
+  {
+    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "name-ko": "영국",
+    "alpha-2": "GB",
+    "country-code": "826"
+  },
+  {
+    "name": "United States of America",
+    "name-ko": "미국",
+    "alpha-2": "US",
+    "country-code": "840"
+  },
+  {
+    "name": "United States Minor Outlying Islands",
+    "name-ko": "미국령 군소 제도",
+    "alpha-2": "UM",
+    "country-code": "581"
+  },
+  {
+    "name": "Uruguay",
+    "name-ko": "우루과이",
+    "alpha-2": "UY",
+    "country-code": "858"
+  },
+  {
+    "name": "Uzbekistan",
+    "name-ko": "우즈베키스탄",
+    "alpha-2": "UZ",
+    "country-code": "860"
+  },
+  {
+    "name": "Vanuatu",
+    "name-ko": "바누아투",
+    "alpha-2": "VU",
+    "country-code": "548"
+  },
+  {
+    "name": "Venezuela (Bolivarian Republic of)",
+    "name-ko": "베네수엘라",
+    "alpha-2": "VE",
+    "country-code": "862"
+  },
+  {
+    "name": "Viet Nam",
+    "name-ko": "베트남",
+    "alpha-2": "VN",
+    "country-code": "704"
+  },
+  {
+    "name": "Virgin Islands (British)",
+    "name-ko": "영국령 버진아일랜드",
+    "alpha-2": "VG",
+    "country-code": "092"
+  },
+  {
+    "name": "Virgin Islands (U.S.)",
+    "name-ko": "미국령 버진아일랜드",
+    "alpha-2": "VI",
+    "country-code": "850"
+  },
+  {
+    "name": "Wallis and Futuna",
+    "name-ko": "왈리스 푸투나",
+    "alpha-2": "WF",
+    "country-code": "876"
+  },
+  {
+    "name": "Western Sahara",
+    "name-ko": "사하라 아랍 민주 공화국",
+    "alpha-2": "EH",
+    "country-code": "732"
+  },
+  {
+    "name": "Yemen",
+    "name-ko": "예멘",
+    "alpha-2": "YE",
+    "country-code": "887"
+  },
+  {
+    "name": "Zambia",
+    "name-ko": "잠비아",
+    "alpha-2": "ZM",
+    "country-code": "894"
+  },
+  {
+    "name": "Zimbabwe",
+    "name-ko": "짐바브웨",
+    "alpha-2": "ZW",
+    "country-code": "716"
+  }
+]

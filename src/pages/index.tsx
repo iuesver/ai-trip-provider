@@ -1,23 +1,17 @@
+import SearchBar from "@/components/searchBar";
 import axios from "axios";
 import Head from "next/head";
-import { GetServerSideProps } from "next";
 import React, { useState, useEffect } from "react";
+import countryData from "../../country.json";
+import { PageStyles } from "@/styles/Page.module";
 
-interface Data {
-  title: string;
-  description: string;
-  link: string;
-  originallink: string;
-  pubDate: string;
-}
-
-export default function Home({ data }: { data: Data[] }) {
-  const [prompt, setPrompt] = useState<string>("");
+export default function Home() {
+  const [country, setCountry] = useState<any>([]);
+  const [prompt, setPrompt] = useState<any>();
   const [response, setResponse] = useState("");
 
   const handleSubmit = async (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault();
-
     try {
       const { data } = await axios.post("/api", { prompt: prompt });
       setResponse(data.response);
@@ -27,8 +21,8 @@ export default function Home({ data }: { data: Data[] }) {
   };
 
   useEffect(() => {
-    console.log(response);
-  }, [response]);
+    setCountry(countryData);
+  }, []);
 
   return (
     <>
@@ -42,38 +36,27 @@ export default function Home({ data }: { data: Data[] }) {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        <div>
-          <form onSubmit={handleSubmit}>
-            <label>
-              Enter a prompt:
-              <input
-                type="text"
-                value={prompt}
-                onChange={(e) => setPrompt(e.target.value)}
-              />
-            </label>
-            <button type="submit">Submit</button>
-          </form>
-          {response && <p>{response}</p>}
-        </div>
+        <PageStyles.Section>
+          <SearchBar />
+          <div>hi</div>
+        </PageStyles.Section>
       </main>
     </>
   );
 }
 
-export const getServerSideProps: GetServerSideProps = async () => {
-  const response = await axios.get(`${process.env.NAVER_API_URL}`, {
-    headers: {
-      "X-Naver-Client-Id": `${process.env.NAVER_API_ID}`,
-      "X-Naver-Client-Secret": `${process.env.NAVER_API_SECRET}`,
-    },
-    params: {
-      query: "오늘의 뉴스",
-      display: 100,
-      sort: "sim",
-      start: 1,
-    },
-  });
-  const data = response.data.items;
-  return { props: { data } };
-};
+// export const getServerSideProps: GetServerSideProps = async () => {
+//   const response = await axios.get("../../public/country.json");
+//   const data = response.data;
+//   return { props: { data } };
+// };
+
+// const getServerSideProps: GetServerSideProps = async () => {
+//   const API_URL = process.env.PUBLIC_DATA_API_URL;
+//   const API_KEY = process.env.PUBLIC_DATA_API_KEY;
+//   const response = await axios.get(
+//     `${API_URL}?serviceKey=${API_KEY}&numOfRows=${195}&pageNo=${1}`
+//   );
+//   const data = response.data;
+//   return { props: { data } };
+// };

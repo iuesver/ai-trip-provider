@@ -18,9 +18,10 @@ const handler: NextApiHandler = async (
   try {
     const response = await openai.createCompletion({
       model: "text-davinci-003",
-      prompt: `${prompt}`,
+      prompt: `'${prompt}'주소의 main content를 분석해줘.`,
       max_tokens: 2048,
-      temperature: 0,
+      n: 1,
+      temperature: 0.7,
     });
     res.status(200).json({ response: response.data.choices[0].text?.trim() });
   } catch (error) {
