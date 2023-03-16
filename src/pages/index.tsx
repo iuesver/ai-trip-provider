@@ -1,44 +1,30 @@
-import SearchBar from "@/components/searchBar";
-import axios from "axios";
+import SearchBar from "../components/SearchBar";
 import Head from "next/head";
 import React, { useState, useEffect } from "react";
-import countryData from "../../country.json";
-import { PageStyles } from "@/styles/Page.module";
+import { PageStyles } from "../styles/page.module";
 
 export default function Home() {
-  const [country, setCountry] = useState<any>([]);
-  const [prompt, setPrompt] = useState<any>();
   const [response, setResponse] = useState("");
 
-  const handleSubmit = async (event: React.FormEvent<HTMLFormElement>) => {
-    event.preventDefault();
-    try {
-      const { data } = await axios.post("/api", { prompt: prompt });
-      setResponse(data.response);
-    } catch (error) {
-      console.error(error);
-    }
-  };
-
   useEffect(() => {
-    setCountry(countryData);
-  }, []);
+    console.log(response);
+  }, [response]);
 
   return (
     <>
       <Head>
-        <title>Create Next App</title>
+        <title>AI Trip Provider</title>
         <meta
           name="description"
-          content="Summarize all news in 3 lines for you."
+          content="AI will introduce 3 tourist points about the country."
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
         <PageStyles.Section>
-          <SearchBar />
-          <div>hi</div>
+          <SearchBar setResponse={setResponse} />
+          <div>{response}</div>
         </PageStyles.Section>
       </main>
     </>

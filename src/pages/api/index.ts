@@ -18,7 +18,7 @@ const handler: NextApiHandler = async (
   try {
     const response = await openai.createCompletion({
       model: "text-davinci-003",
-      prompt: `'${prompt}'주소의 main content를 분석해줘.`,
+      prompt: `introduce about ${prompt}'s three tourist points in korean.`,
       max_tokens: 2048,
       n: 1,
       temperature: 0.7,
